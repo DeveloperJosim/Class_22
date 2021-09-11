@@ -1,0 +1,147 @@
+img {
+    max-width: 100%;
+}
+.btn {
+    background-color: #8592fc;
+    font-weight: 500;
+}
+
+
+.logo {
+    width: 100px;
+}
+
+
+
+/*     hero_section css    */
+
+
+.hero_section {
+    background-color: #f9f9ff;
+}
+.hero_section_text h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.hero_section_text h2 {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.hero_section_text p{
+    margin-bottom: 30px;
+}
+
+
+/*     about_section css    */
+
+
+.about_section_img {
+    border: 2px solid #ded7d7;
+    border-radius: 5px;
+}
+.about_section_text h6 {
+    font-weight: 400;
+    margin: 20px 0;
+}
+.about_section_text h2 {
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.about_section_text p {
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+
+
+/*    number_counter_section css     */
+
+
+.number_counter_section {
+    background-color: #8592fc;
+}
+
+
+
+/*    pricing_table_section css     */
+
+
+.pricing_number {
+    background-color: rgb(247, 243, 243);
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    border-radius: 50%;
+}
+.pricing_number h2 {
+    display: inline-block;
+}
+.pricing_table_item .btn {
+    color: #8592fc !important;
+    background-color: #fff;
+    border: 2px solid #8592fc;
+}
+
+.another_section h2 {
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.another_section p {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+
+/*    blog_section css     */
+
+
+.blog_item {
+    position: relative;
+}
+.blog_item img {
+    width: 90px;
+    position: absolute;
+    top: -45px;
+    left: 15px;
+}
+.blog_item h4 {
+    margin-top: 35px;
+    font-weight: 400;
+}
+.blog_item h6 {
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+.form_details {
+    padding-top: 60px;
+    padding-left: 25px;
+}
+.form_details h3 {
+    font-size: 28px;
+    font-weight: 500;
+}
+.form_details p {
+    font-size: 18px;
+    font-weight: 400;
+}
+.contact-form .btn {
+    
+}
+
+
+
+/*    footer_section css    */
+
+
+footer {
+    background-color: #04091e;
+}
